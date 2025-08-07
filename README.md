@@ -1,2 +1,2 @@
 # git-learn
-Learning git 
+Learning git pedri Gonzalez
